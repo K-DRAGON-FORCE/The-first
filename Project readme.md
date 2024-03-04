@@ -27,7 +27,7 @@ flowchart TD
 * (각 팀에서 프로젝트를 위해 생성한 repository에 대한 code clone 방법에 대해서 기술)
 
 ```shell
-
+https://github.com/K-DRAGON-FORCE/The-first.git
 ```
 
 ## Prerequite
