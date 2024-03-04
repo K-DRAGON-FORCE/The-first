@@ -8,8 +8,9 @@
 
 ```mermaid
 flowchart TD
-  A --> B[ASDSAD]
-B[ASDSAD] --> C[WQDWQ]
+  A[객체 탐지] --> B[탐지된 객체의 행동 추정]
+  B[탐지된 객체의 행동 추정] --> C[조건에 따른 액션]
+  C[조건에 따른 액션]
 ```
 
 ## Clone code
