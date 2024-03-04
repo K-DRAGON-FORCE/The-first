@@ -12,8 +12,9 @@
 
 * (각 팀에서 프로젝트를 위해 생성한 repository에 대한 code clone 방법에 대해서 기술)
 
-```shell
-git clone https://github.com/xxx/yyy/zzz
+```mermaid
+flowchart TD
+  A --> B
 ```
 
 ## Prerequite
