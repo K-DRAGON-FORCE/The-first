@@ -1,6 +1,6 @@
-# Project readme.md 작성방법
+# The first 
 
-# Project ABC
+# Project 
 
 모션인식을 통해 사람의 현재자세를 확인하고 정해진 모션과 일치하지않으면 경고메세지 출력
 
