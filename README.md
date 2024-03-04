@@ -30,14 +30,14 @@ The AI first group in 503
 * Team: 뭔가 센스있는 팀명
 * <프로젝트 요약>
 
-### 조이름 : xxxx
+### 조이름 : The first 
 Members
 | Name           | Role |
 |-------------------------------|---------------------------|
-| 김용기 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-| 나준환 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-| 이민규 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-| 최원빈 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+| 김용기 | Project lead, 프로젝트 총괄|
+| 나준환 | Project manager, 모델 개발및 응용 |
+| 이민규 | Project manager, 모델 개발및 응용 |
+| 최원빈 | Project manager, 모델 개발및 응용 |
 | Project Github | https://github.com/goodsense/project_awesome.git |
 
 
