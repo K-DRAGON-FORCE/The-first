@@ -16,9 +16,8 @@ B[ASDSAD] --> C[WQDWQ]
 
 * (각 팀에서 프로젝트를 위해 생성한 repository에 대한 code clone 방법에 대해서 기술)
 
-```mermaid
-flowchart TD
-  A --> B
+```shell
+
 ```
 
 ## Prerequite
